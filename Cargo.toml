@@ -1,0 +1,7 @@
+[package]
+authors = ["halship <gship@hotmail.co.jp>"]
+name = "tetris"
+version = "0.1.0"
+[dependencies]
+piston_window = "0.70.0"
+rand = "0.3.16"
